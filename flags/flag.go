@@ -1,7 +1,7 @@
 package flags
 
 import (
-	"github.com/tania/option"
+	"github.com/Brukhan/project/option"
 )
 
 type Options struct {
